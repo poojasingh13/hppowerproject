@@ -2,10 +2,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Hindustan Powerprojects Private Limited - Divisions - Thermal Power - Introduction</title>
+	<title>Thermal Power - MOEF</title>
     
-	<meta name="description" content="Read Everything About Ratul Puri, Latest NEWS, Projects, Industry Updates, Special Reports, Business NEWS, Find Information on Ratul Puri's Hindustan Power Projects, Power & Energy Projects" />
-    <link rel="canonical" href="http://www.ratulpuri.com/" />
+	
 <?php  include 'meta.html';?>    
 </head><!--/head-->
 <body data-spy="scroll" data-target="#navbar" data-offset="0">
