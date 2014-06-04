@@ -20,7 +20,35 @@ The company aims at having a  thermal generation portfolio of 5000-6000 MW by 20
 Currently, this  business is developing three thermal power generation projects with a combined  generation capacity of around 4000 MW in Madhya Pradesh and Chhattisgarh. 
 
 					</p>
-					</div></div></div>
+					</div>
+					
+					
+					
+					<div class="item active">
+                            <div class="row">
+                                <div class="col-sm-4">
+                                    <div class="member">
+                                        <p><img class="img-responsive img-thumbnail img-circle" src="images/rsz1.jpg" alt="" ></p>
+                                        
+                                    </div>
+                                </div>
+                                <div class="col-sm-4">
+                                    <div class="member">
+                                        <p><img class="img-responsive img-thumbnail img-circle" src="images/rsz_img_9975.jpg" alt="" ></p>
+                                        
+                                    </div>
+                                </div>        
+                                <div class="col-sm-4">
+                                    <div class="member">
+                                        <p><img class="img-responsive img-thumbnail img-circle" src="images/rsz_dsc_0471.jpg" alt="" ></p>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+					</div>
+					</div>
+					</div>
+					
 	</section>
     
 	

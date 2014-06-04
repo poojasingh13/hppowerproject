@@ -1,1 +1,1 @@
-<?php $url_prefix = '/mvnlabs/ratulpuri';$bpc = '5';?>
+<?php $bpc = '6';?>
