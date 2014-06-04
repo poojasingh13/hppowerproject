@@ -39,20 +39,20 @@
               </tr>
               <tr>
                 <td valign="top" height="42"><b>EC Compliance Six monthly</b><br />
-                  March, 2013
+                  March, 2014
                     <table border="0" cellpadding="0" cellspacing="0" width="100%" id="table9" style="margin-top:7px;">
                   <tr>
                     <td width="30"><img src="images/pdf.gif" width="25" height="26" /></td>
-                    <td><a target="_blank" href="pdfs/EC-Complaince-sm-mar13.pdf"> Download in PDF format</a></td>
+                    <td><a target="_blank" href="pdfs/EC-Compliance-Six-monthly.pdf"> Download in PDF format</a></td>
                   </tr>
                 </table></td>
                 <td valign="top" height="42"><b>EC Compliance six monthly receipt</b><br />
-                  March, 201
-                    3
+                  March, 2014
+                
                     <table border="0" cellpadding="0" cellspacing="0" width="100%" id="table11" style="margin-top:7px;">
                   <tr>
                     <td width="30"><img src="images/pdf.gif" width="25" height="26" /></td>
-                    <td><a target="_blank" href="pdfs/ecc-sm-receipt.pdf"> Download in PDF format</a></td>
+                    <td><a target="_blank" href="pdfs/EC-Compliance-six-monthly-receipt.pdf"> Download in PDF format</a></td>
                   </tr>
                 </table></td>
                 <td valign="top"><!--<b>EC Compliance Report</b><br />
