@@ -39,7 +39,7 @@
               </tr>
               <tr>
                 <td valign="top" height="42"><b>EC Compliance Six monthly</b><br />
-                  March, 2014
+                  June, 2014
                     <table border="0" cellpadding="0" cellspacing="0" width="100%" id="table9" style="margin-top:7px;">
                   <tr>
                     <td width="30"><img src="images/pdf.gif" width="25" height="26" /></td>
@@ -47,7 +47,7 @@
                   </tr>
                 </table></td>
                 <td valign="top" height="42"><b>EC Compliance six monthly receipt</b><br />
-                  March, 2014
+                  June, 2014
                 
                     <table border="0" cellpadding="0" cellspacing="0" width="100%" id="table11" style="margin-top:7px;">
                   <tr>
