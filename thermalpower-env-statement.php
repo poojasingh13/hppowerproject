@@ -15,7 +15,16 @@
                 <div class="center gap">
                     <h2>Environment Statement</h2>
 					<div class="lead">
-<table width="974" border="0" cellspacing="0" cellpadding="0">
+<table width="974" border="0" cellspacing="0" cellpadding="0" style="text-align:center">					
+									<tr>
+                <td valign="top" height="42"><b>Ack</b></td><br/>
+				  </tr>
+		<tr>
+                    
+                    <td><a target="_blank" href="pdfs/Ack.pdf"> Download in PDF format</a></td>
+                  </tr>
+</table>				  
+<!--<table width="974" border="0" cellspacing="0" cellpadding="0">
     <tr>
     <td align="left" class="h-bor"><table width="100%" border="0" cellspacing="0" cellpadding="0">
       <tr>
@@ -24,7 +33,7 @@
             <td><img src="images/spacer.gif" width="211" height="1" /></td>
           </tr>
           <tr>
-            <td align="left"><!--#include file="inc-leftlinks-thermal.asp"--></td>
+            <td align="left"></td>
           </tr>
         </table></td>
         <td width="100%" valign="top" style="padding-left:15px;"><table border="0" width="95%" cellspacing="0" cellpadding="0" id="text">
@@ -152,9 +161,9 @@
     </table></td>
   </tr>
   <tr>
-    <td align="left"><!--#include file="inc-footer.asp"--></td>
+    <td align="left"></td>
   </tr>
-</table>
+</table>-->
 					</div>
 					</div></div></div>
 	</section>

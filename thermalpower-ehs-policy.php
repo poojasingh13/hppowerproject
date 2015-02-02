@@ -37,14 +37,13 @@
           <tr>
             <td valign="top" align="left" width="33%">
 			<table border="0" cellpadding="0" cellspacing="0" width="100%">
-				<tr>
+				<!--<tr>
 				  <td valign="top" width="33%"><img src="images/ehs-policy-sep11.gif" class="impadbor" /></td>
 					<td width="33%" valign="top">&nbsp;</td>
 					<td valign="top">&nbsp;</td>
-				</tr>
+				</tr>-->
 				<tr>
-				  <td valign="top"><b>EHS Policy</b><br />
-				    01 September, 2011</td>
+				  <td valign="top"><b>HPPPL EHS policy</td>
 					<td valign="top">&nbsp;</td>
 					<td valign="top">&nbsp;</td>
 				</tr>
@@ -52,7 +51,7 @@
 				  <td valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%">
 				    <tr>
 				      <td width="30"><img src="images/pdf.gif" width="25" height="26" /></td>
-				      <td><a target="_blank" href="pdfs/ehs-policy-sep11.pdf"> Download in PDF format</a></td>
+				      <td><a target="_blank" href="pdfs/HPPPL-EHS-Policy.pdf"> Download in PDF format</a></td>
 				      </tr>
 				    </table></td>
 					<td valign="top">&nbsp;</td>
